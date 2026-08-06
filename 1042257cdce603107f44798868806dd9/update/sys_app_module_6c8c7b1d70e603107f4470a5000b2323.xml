@@ -8,12 +8,12 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Loaner Requests</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaner_r_0_loaner_request</name>
-        <order>300</order>
+        <name/>
+        <order>700</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -21,21 +21,21 @@
         <roles>x_cdltd_loaner_r_0.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-08-04 12:59:34</sys_created_on>
+        <sys_created_on>2026-08-06 11:24:54</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c00ff9f0dc6a03107f44798868806d1e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>6c8c7b1d70e603107f4470a5000b2323</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Admin Tools</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner request" source="x_cdltd_loaner_r_0">1042257cdce603107f44798868806dd9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner request">1042257cdce603107f44798868806dd9</sys_scope>
-        <sys_update_name>sys_app_module_c00ff9f0dc6a03107f44798868806d1e</sys_update_name>
+        <sys_update_name>sys_app_module_6c8c7b1d70e603107f4470a5000b2323</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-08-06 05:55:35</sys_updated_on>
+        <sys_updated_on>2026-08-06 11:26:46</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Admin Tools</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
